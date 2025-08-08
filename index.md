@@ -10,7 +10,7 @@ title: Sai Manohar Peddinti – Embedded Systems Portfolio
     <a href="https://github.com/manohar1999-max">GitHub</a> |
     <a href="https://www.linkedin.com/in/sai-manohar-peddinti-6a8140185/">LinkedIn</a>
   </p>
-  <p>Buffalo Grove, Illinois, United States</p>
+  
 </div>
 
 ---
@@ -27,7 +27,7 @@ Embedded Systems Engineer with expertise in Embedded Linux, Buildroot/Yocto, dev
 Hyderabad, India (Currently)
 
 **Engineer – Microchip Technology**  
-Hyderabad, India
+chennai, India
 
 ---
 
