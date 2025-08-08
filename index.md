@@ -118,7 +118,6 @@ Control home appliances over Wi-Fi through a custom-built mobile application.
 
 - **GitHub:** [manohar1999-max](https://github.com/manohar1999-max)
 - **LinkedIn:** [Sai Manohar Peddinti](https://www.linkedin.com/in/sai-manohar-peddinti-6a8140185/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com) <!-- Replace with your actual email -->
 
 ---
 
